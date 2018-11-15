@@ -1,0 +1,4 @@
+Hyttenavn1 8 100
+Hyttenavn2 7 150
+Hyttenavn3 7 50
+Hyttenavn4 10 8000

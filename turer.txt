@@ -1,0 +1,4 @@
+En tekst som beskriver en tur
+Hyttenavn1 Hyttenavn2 Hyttenavn3
+En tekst som beskriver enannentur
+Hyttenavn1 Hyttenavn4
