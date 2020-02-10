@@ -1,0 +1,6 @@
+a. Alt var ganske enkelt. Forventet ikke mye uansett fra første innlevering.
+
+b. 10 minutter. Flest av tid tok kommentarer.
+   i. Alle programmene fungerer i innleveringen.
+  ii. ...
+ iii. ...
