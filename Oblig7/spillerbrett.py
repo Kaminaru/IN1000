@@ -15,7 +15,7 @@ class Spillbrett:
             list = []                   # liste som skal leges til nostetliste flere ganger
             for a in range(self._kolonner):
                 # celle Navn skal endres for hver loopen av for, brukes for aa lage unik navn til celle
-                celleNavn = "celle" + str(i) + str(a)   # navn til celle som laget av str1 og str2 nummer   *************
+                # celleNavn = "celle" + str(i) + str(a)   # navn til celle som laget av str1 og str2 nummer   *************
                 celleNavn = Celle()         # ny celle objekt oprettes
                 list.append(celleNavn)      # og legges in i liste
             self._todimList.append(list)    # den liste av den rad med saa mange celler som kolloner i spillebrett
